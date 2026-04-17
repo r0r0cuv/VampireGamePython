@@ -1,0 +1,53 @@
+# 🧛 Vampire Mansion Adventure (Python Game)
+
+## 📌 Overview
+This is a text-based adventure game built in Python where the player must explore a mansion, collect essential items, and defeat a vampire before time runs out.
+
+The game demonstrates core programming concepts such as loops, conditionals, and data structures while providing an interactive experience.
+
+---
+
+## 🎮 Gameplay
+- Explore different rooms in the mansion
+- Collect items needed to defeat the vampire
+- Manage your inventory
+- Decide when to fight the vampire
+
+---
+
+## 🧩 Features
+- Inventory system
+- Room exploration
+- Win/lose conditions
+- Input validation
+- Interactive console gameplay
+
+---
+
+## 🛠️ Technologies Used
+- Python
+
+---
+
+## ▶️ How to Run (Using PyCharm)
+
+1. Open PyCharm
+2. Click **Open** and select the project folder
+3. Locate the file (e.g., `main.py`)
+4. Right-click the file and select **Run 'main'**
+   - OR click the green ▶️ Run button at the top
+5. The game will run in the PyCharm console
+
+---
+
+## ▶️ How to Run (Command Line)
+
+1. Download or clone the repository
+2. Open terminal or command prompt
+3. Navigate to the project folder
+4. Run:
+
+
+
+```bash
+python main.py
