@@ -47,6 +47,12 @@ The game demonstrates core programming concepts such as loops, conditionals, and
 3. Navigate to the project folder
 4. Run:
 
+## 📊 Design Documentation
+
+This project includes a design presentation that outlines the storyboard, game flow, and pseudocode used during development.
+
+👉 [View Design Presentation](docs/design-presentation.pptx)
+
 
 
 ```bash
